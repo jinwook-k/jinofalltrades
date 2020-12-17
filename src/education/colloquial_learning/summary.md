@@ -7,3 +7,4 @@ learning made to be easily digestible and relatable to the average person.
 ### Youtube Channels
 - [Casually Explained](https://www.youtube.com/channel/UCr3cBLTYmIK9kY0F_OdFWFQ)
 - [CGP Grey](https://www.youtube.com/channel/UC2C_jShtL725hvbm1arSV9w)
+- [Oversimplified](https://www.youtube.com/channel/UCNIuvl7V8zACPpTmmNIqP2A)
